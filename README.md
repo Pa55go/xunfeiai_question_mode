@@ -15,7 +15,7 @@
 
 ## 项目结构
 
-
+~~~tree
 xunfeiai_question_mode/
 ├── src/
 │   └── xunfeiai_processor.py  # 主处理脚本
@@ -23,7 +23,7 @@ xunfeiai_question_mode/
 ├── setup.py                   # 打包配置文件（可选）
 ├── README.md                  # 项目说明（本文件）
 └── LICENSE                    # 许可证文件
-
+~~~
 
 ## 安装指南
 
