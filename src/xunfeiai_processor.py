@@ -1,8 +1,9 @@
 import re
-from pypinyin import lazy_pinyin, Style
 import struct
 import time
 from io import BytesIO
+
+from pypinyin import lazy_pinyin, Style
 
 
 def gen_msudp_from_file(input_file):

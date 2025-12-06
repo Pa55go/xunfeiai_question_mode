@@ -19,7 +19,7 @@
 xunfeiai_question_mode/
 ├── src/
 │   └── xunfeiai_processor.py  # 主处理脚本
-├── requirements.txt            # Python依赖列表
+├── requirements.txt           # Python依赖列表
 ├── setup.py                   # 打包配置文件（可选）
 ├── README.md                  # 项目说明（本文件）
 └── LICENSE                    # 许可证文件
