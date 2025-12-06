@@ -1,4 +1,3 @@
-以下是为您的项目 xunfeiai_question_mode 生成的 README.md 文件。它清晰介绍了项目用途、功能、安装和使用方法，并提供了项目结构、贡献指南及许可证信息，格式规范，便于用户快速理解和使用。
 # xunfeiai_question_mode
 
 讯飞AI考试系统题库综合处理脚本。
