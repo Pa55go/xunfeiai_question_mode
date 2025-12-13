@@ -30,7 +30,7 @@ def gen_msudp_from_file(input_file):
                 order = int(parts[1])
             except ValueError:
                 order = 1  # 默认值
-            word = parts[2]
+            word = parts[2][:63]
 
             table.append({"word": word, "code": code, "order": order})
 
